@@ -1,4 +1,4 @@
-# FedCauMiSC: Federated Causal Discovery with Missingness-aware Star-Graph Cumulants
+# FedCauMiSC: Federated Causal Missingness-aware method based on Star-graph Cumulant
 
 This repository contains the official implementation of **FedCauMiSC**, a framework for federated causal discovery designed to handle two major challenges in real-world data: **variable heterogeneity** (clients observing non-identical variable sets) and **missing data**.
 
